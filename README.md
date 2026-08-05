@@ -3,7 +3,7 @@
 ## 🏛️ Información de la Asignatura
 * **Universidad:** Universidad Andina del Cusco (UAC)
 * **Curso:** Desarrollo de Software I
-* **Docente:** Hugo Hespetia
+* **Docente:** Hugo Hespetia Huamanga
 
 ## 👥 Equipo de Desarrollo
 * Checllo Peña, Ruby Gabriela
